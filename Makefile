@@ -1,5 +1,5 @@
 # Define the image name
-IMAGE_NAME = de_dockerdemo
+IMAGE_NAME = de_dockerdemo_2
 DOCKER_ID_USER = cheesedanish
 
 # Build the Docker image
