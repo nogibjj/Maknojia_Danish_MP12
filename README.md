@@ -5,7 +5,7 @@
 
 This is a simple Python Flask application containerized using Docker. It demonstrates dynamic routes, JSON responses, and query parameter processing. The project includes a CI/CD pipeline to build and push the Docker image to Docker Hub.
 
-[Click here](https://hub.docker.com/r/cinnamondanish/de_dockerdemo_2) to visit see Docker Image.
+[Click here](https://hub.docker.com/r/cinnamondanish/de_dockerdemo_2) to see Docker Image.
 ---
 
 ## Features
@@ -81,6 +81,11 @@ make container_show
 ```
 
 ---
+
+## Flask App
+
+![Alt Text](FlaskApp.png)
+
 
 ## Endpoints
 
