@@ -1,5 +1,7 @@
 
-# Cool Flask App
+# Maknojia_Danish_MP12
+
+[![Build and Push Docker Image](https://github.com/nogibjj/Maknojia_Danish_MP12/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Maknojia_Danish_MP12/actions/workflows/cicd.yml)
 
 This is a simple Python Flask application containerized using Docker. It demonstrates dynamic routes, JSON responses, and query parameter processing. The project includes a CI/CD pipeline to build and push the Docker image to Docker Hub.
 
